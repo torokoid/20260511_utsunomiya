@@ -170,7 +170,7 @@ p.note { display: none; }
     
 
 <div class="media-container">
-<h2><span class="yellow">10,May,2026 ご近所の生垣のお花が、青空に映えて綺麗</span></h2>
+<h2><span class="yellow">09,May,2026 ご近所の生垣のお花が、青空に映えて綺麗</span></h2>
 <a href="20260511_001.webp" target="_blank">
   <picture>
     <source srcset="20260511_001.webp" type="image/webp">
@@ -304,7 +304,7 @@ p.note { display: none; }
   </picture>
 </a>
 
-<h2><span class="yellow">バイクで羽黒山に向かいます</span></h2>
+<h2><span class="yellow">10,May,2026, バイクで羽黒山に向かいます</span></h2>
 <a href="20260511_019.webp" target="_blank">
   <picture>
     <source srcset="20260511_019.webp" type="image/webp">
